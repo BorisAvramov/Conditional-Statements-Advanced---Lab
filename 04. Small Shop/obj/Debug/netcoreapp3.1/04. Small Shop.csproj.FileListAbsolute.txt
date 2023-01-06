@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.exe
+C:\Users\Dell\source\repos\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.deps.json
+C:\Users\Dell\source\repos\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.runtimeconfig.json
+C:\Users\Dell\source\repos\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.dll
+C:\Users\Dell\source\repos\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.pdb
+C:\Users\Dell\source\repos\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.AssemblyInfo.cs
+C:\Users\Dell\source\repos\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.dll
+C:\Users\Dell\source\repos\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.exe
+C:\Users\Dell\source\repos\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.deps.json
+C:\Users\Dell\source\repos\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.json
+C:\Users\Dell\source\repos\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\Dell\source\repos\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\Dell\source\repos\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\Dell\source\repos\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.pdb

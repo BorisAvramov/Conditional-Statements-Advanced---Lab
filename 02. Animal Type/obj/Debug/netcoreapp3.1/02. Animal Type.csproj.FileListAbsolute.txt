@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.exe
+C:\Users\Dell\source\repos\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.deps.json
+C:\Users\Dell\source\repos\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.runtimeconfig.json
+C:\Users\Dell\source\repos\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.dll
+C:\Users\Dell\source\repos\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.pdb
+C:\Users\Dell\source\repos\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.AssemblyInfo.cs
+C:\Users\Dell\source\repos\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.dll
+C:\Users\Dell\source\repos\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.pdb

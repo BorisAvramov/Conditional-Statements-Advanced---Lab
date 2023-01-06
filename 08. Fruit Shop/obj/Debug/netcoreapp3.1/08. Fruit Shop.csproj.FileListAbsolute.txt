@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.exe
+C:\Users\Dell\source\repos\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.deps.json
+C:\Users\Dell\source\repos\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.runtimeconfig.json
+C:\Users\Dell\source\repos\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.dll
+C:\Users\Dell\source\repos\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.pdb
+C:\Users\Dell\source\repos\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.AssemblyInfo.cs
+C:\Users\Dell\source\repos\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.dll
+C:\Users\Dell\source\repos\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.pdb

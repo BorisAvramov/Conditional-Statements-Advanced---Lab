@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\05. Number in Range\obj\Debug\netcoreapp3.1\05. Number in Range.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\05. Number in Range\obj\Debug\netcoreapp3.1\05. Number in Range.AssemblyInfo.cs
+C:\Users\Dell\source\repos\05. Number in Range\bin\Debug\netcoreapp3.1\05. Number in Range.exe
+C:\Users\Dell\source\repos\05. Number in Range\bin\Debug\netcoreapp3.1\05. Number in Range.deps.json
+C:\Users\Dell\source\repos\05. Number in Range\bin\Debug\netcoreapp3.1\05. Number in Range.runtimeconfig.json
+C:\Users\Dell\source\repos\05. Number in Range\bin\Debug\netcoreapp3.1\05. Number in Range.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\05. Number in Range\bin\Debug\netcoreapp3.1\05. Number in Range.dll
+C:\Users\Dell\source\repos\05. Number in Range\bin\Debug\netcoreapp3.1\05. Number in Range.pdb
+C:\Users\Dell\source\repos\05. Number in Range\obj\Debug\netcoreapp3.1\05. Number in Range.dll
+C:\Users\Dell\source\repos\05. Number in Range\obj\Debug\netcoreapp3.1\05. Number in Range.pdb

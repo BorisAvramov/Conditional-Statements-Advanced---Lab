@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.exe
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.deps.json
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.runtimeconfig.json
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.dll
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.pdb
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.dll
+C:\Users\Dell\source\repos\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.pdb

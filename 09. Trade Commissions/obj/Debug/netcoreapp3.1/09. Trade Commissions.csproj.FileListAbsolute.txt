@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.exe
+C:\Users\Dell\source\repos\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.deps.json
+C:\Users\Dell\source\repos\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.runtimeconfig.json
+C:\Users\Dell\source\repos\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.dll
+C:\Users\Dell\source\repos\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.pdb
+C:\Users\Dell\source\repos\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.AssemblyInfo.cs
+C:\Users\Dell\source\repos\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.dll
+C:\Users\Dell\source\repos\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.pdb

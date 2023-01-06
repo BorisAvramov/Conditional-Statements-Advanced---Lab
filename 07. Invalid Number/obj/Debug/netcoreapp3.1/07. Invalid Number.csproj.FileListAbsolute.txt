@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.exe
+C:\Users\Dell\source\repos\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.deps.json
+C:\Users\Dell\source\repos\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.runtimeconfig.json
+C:\Users\Dell\source\repos\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.dll
+C:\Users\Dell\source\repos\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.pdb
+C:\Users\Dell\source\repos\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.AssemblyInfo.cs
+C:\Users\Dell\source\repos\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.dll
+C:\Users\Dell\source\repos\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.pdb
